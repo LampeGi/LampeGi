@@ -1,6 +1,6 @@
 
-
 ### Olá ! Eu sou  Giovanna Lampe 💌
+
 
 
 
@@ -8,7 +8,13 @@
 
 <br/>
 
-![Giovanna Lampe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=onedark)
+<div style="display: flex; align-items: center;">
+
+<img src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 30%">
+
+![Giovanna Lampe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange)
+
+</div>
 
 ### Ferramentas utilizadas por mim 🔧
 

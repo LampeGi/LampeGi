@@ -3,9 +3,12 @@
 ### Olá ! Eu sou  Giovanna Lampe 💌
 
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-lampe-82478826b/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LampeGi&hide_progress=true)
+<br/>
+
+![Giovanna Lampe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=aura_dark)
 
 ### Ferramentas utilizadas por mim 🔧
 
@@ -25,6 +28,24 @@
 
 <img align="center" alt="TRELLO" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 
+</div>
+
+<br/>
+
+### Tecnologias que eu estou estudando no momento 📓
+
+<div style="display:flex">
+<ul>
+
+<li><img align="center"
+alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></li>
+
+
+<li><img align="center"
+alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></li>
 
 
 </div>
+
+</ul>
+

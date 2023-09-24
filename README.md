@@ -7,9 +7,9 @@
 
 <br/>  
 
-<div style="display: flex">
+<div  style="display: flex">
 
-<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 20%">
+<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 20%;">
 
 ![Giovanna Lampe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange)
 

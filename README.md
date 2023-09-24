@@ -3,18 +3,22 @@
 ### Olá ! Eu sou  Giovanna Lampe 🧡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-lampe-82478826b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannalampe34@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange)](mailto:giovannalampe34@gmail.com)
 
 <br/>  
 
 <div  style="display: flex">
 
-<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 20%;">
+<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 17%;">
 
-![Giovanna Lampe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange)
- 
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange">
+
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ffa500&text_color=ffff&bg_color=0000">
+
 
 </div>
+
+<br/> 
 
 ### Ferramentas utilizadas por mim 🔧
 

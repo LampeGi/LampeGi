@@ -13,7 +13,7 @@
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange">
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ffa500&text_color=ffff&bg_color=0000">
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LampeGi&layout=compact&hide_border=true&title_color=ffa500&text_color=ffff&bg_color=0000">
 
 
 </div>

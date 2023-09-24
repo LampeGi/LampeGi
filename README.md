@@ -7,7 +7,7 @@
 
 <br/>  
 
-<div  style="display: flex">
+<div align="center" style="display: flex">
 
 <img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/8d974188-2de7-45a5-aed7-a1a03e770c4e" style="width: 18%;">
 

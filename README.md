@@ -2,8 +2,8 @@
 
 ### Olá ! Eu sou  Giovanna Lampe 🧡
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-lampe-82478826b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannalampe34@gmail.com)
 
 <br/>  
 
@@ -12,6 +12,7 @@
 <img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 20%;">
 
 ![Giovanna Lampe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange)
+ 
 
 </div>
 
@@ -52,7 +53,7 @@ alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&lo
 </br>
 
 <div align="center">
-<p>Trilhando o caminho do conhecimento</p>
+<p>In a new journey</p>
 
 <p>Feito com carinho por mim 🌞 </p>
 

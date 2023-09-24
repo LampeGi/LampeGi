@@ -9,7 +9,7 @@
 
 <div  style="display: flex">
 
-<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/d3247f5f-817a-4908-bdcd-a015b33ae243" style="width: 17%;">
+<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/8d974188-2de7-45a5-aed7-a1a03e770c4e" style="width: 17%;">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange">
 
@@ -20,6 +20,7 @@
 
 <br/> 
 
+
 ### Ferramentas utilizadas por mim 🔧
 
 <div style="display:flex"><br/>
@@ -28,6 +29,7 @@
 <img align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 6%">
 
 <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 6%">
+![avatar_gith](https://github.com/LampeGi/LampeGi/assets/130471515/5eeb5cbd-480f-4a63-a89e-a26bfd8ead6c)
 
 <img align="center" alt="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 6%">
 

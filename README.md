@@ -42,11 +42,11 @@
 <div style="display:flex">
 <ul>
 
-<li><img align="center"
+<li> <img align="center"
 alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></li>
 
 
-<li><img align="center"
+<li> <img align="center"
 alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style=" padding-top: 5%";></li>
 
 

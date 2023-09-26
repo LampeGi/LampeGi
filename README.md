@@ -30,6 +30,8 @@
 
 <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 6%">
 
+<img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 6%">
+
 
 <img align="center" alt="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 6%">
 
@@ -50,6 +52,9 @@ alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-t
 
 <li> <img align="center"
 alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style=" padding-top: 5%";></li>
+
+<li> <img align="center"
+alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style=" padding-top: 5%";></li>
 
 
 </div>

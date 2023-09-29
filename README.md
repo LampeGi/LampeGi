@@ -21,7 +21,7 @@
 <br/> 
 
 
-### Ferramentas utilizadas por mim 🔧
+### Ferramentas conhecidas por mim 🔧
 
 <div style="display:flex"><br/>
 <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 6%">

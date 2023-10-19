@@ -9,16 +9,14 @@
 
 <div style="display: flex">
 
-<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/8d974188-2de7-45a5-aed7-a1a03e770c4e" style="width: 18%;">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=LampeGi&show_icons=true&theme=slateorange">
+<img align="left" src="https://github.com/LampeGi/LampeGi/assets/130471515/8d974188-2de7-45a5-aed7-a1a03e770c4e" style="width: 18%">
 
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LampeGi&layout=compact&hide_border=true&title_color=ffa500&text_color=ffff&bg_color=0000">
 
 
 </div>
 
-<br/> 
+<br/> <br/> <br/>
 
 
 ### Ferramentas conhecidas por mim 🔧

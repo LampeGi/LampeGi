@@ -1,6 +1,6 @@
 
 
-### Olá ! Eu sou  Giovanna Lampe 🧡
+### Olá 🧡
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange)](mailto:giovannalampe34@gmail.com)
 

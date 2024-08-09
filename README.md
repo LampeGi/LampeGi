@@ -2,7 +2,6 @@
 
 ### Olá ! Eu sou  Giovanna Lampe 🧡
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-lampe-82478826b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange)](mailto:giovannalampe34@gmail.com)
 
 <br/>  
@@ -44,12 +43,6 @@
 <div style="display:flex">
 <ul>
 
-<li> <img align="center"
-alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></li>
-
-
-<li> <img align="center"
-alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style=" padding-top: 5%";></li>
 
 <li> <img align="center"
 alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style=" padding-top: 5%";></li>

@@ -57,7 +57,6 @@ alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge
 <div align="center">
 <p>In a new journey</p>
 
-<p>Feito com carinho por mim 🌞 </p>
 
 </div>
 
